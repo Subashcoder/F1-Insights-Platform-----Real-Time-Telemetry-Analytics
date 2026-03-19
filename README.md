@@ -1,6 +1,16 @@
 # F1-Insights-Platform Real-Time-Telemetry-Analytics
 
 # 🏎️  F1 Insights: Real-Time Replay & Historical Analytics 🏁
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Data%20Engineering-orange)
+![AWS](https://img.shields.io/badge/AWS-Cloud-yellow?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)
+![Airflow](https://img.shields.io/badge/Airflow-Orchestration-red?logo=apacheairflow)
+![dbt](https://img.shields.io/badge/dbt-ELT-orange)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?logo=apachekafka)
+![Snowflake](https://img.shields.io/badge/Snowflake-Warehouse-blue?logo=snowflake)
+![Redshift](https://img.shields.io/badge/Redshift-Data%20Warehouse-red)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-orange?logo=grafana)
 
 # 📖 Project Overview
 
