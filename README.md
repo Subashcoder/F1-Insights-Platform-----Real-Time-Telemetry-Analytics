@@ -3,19 +3,6 @@
 # 🏎️  F1 Insights: Real-Time Replay & Historical Analytics 🏁
 
 # 📖 Project Overview
-Click below image or this link for a video Overview 👇 ▶️ 
-
-Project overview explanation Link: [Click Here ](https://vimeo.com/1038211767)
-
-[![Video Title 2](https://vumbnail.com/1038211767.jpg)](https://vimeo.com/1038211767)
-
---------------------------------------------------------------
-Click below image or this link for a dashboard Overview 👇 ▶️ 
-
-Dashboards explanation Link: [Click Here](https://vimeo.com/1038203523)
-
-[![Video Title](https://vumbnail.com/1038203523.jpg)](https://vimeo.com/1038203523)
-
 
 A real-time Formula 1 telemetry system and historical data analysis system that captures, processes, and visualizes car data during race sessions, enabling both live replay and historical analysis.
 
